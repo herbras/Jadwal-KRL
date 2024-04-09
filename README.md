@@ -71,9 +71,3 @@ For any feedback or support issues, please contact us via [Twitter](https://twit
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
 
----
-
-### Additional Notes:
-- This README assumes that the repository URL and other specifics will be filled in by the developer.
-- Tailwind CSS, Svelte, and SvelteKit are assumed to be part of the tech stack as mentioned.
-- Local storage is used for managing favorites, as indicated in the script.
